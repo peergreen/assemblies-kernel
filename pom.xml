@@ -33,6 +33,7 @@
   </scm>
 
   <properties>
+    <usePack200>true</usePack200>
     <deployment.version>1.0.2</deployment.version>
     <deployment-extension.version>1.0.2</deployment-extension.version>
     <felix.version>4.0.3</felix.version>
