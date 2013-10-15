@@ -23,7 +23,7 @@
   <artifactId>parent-kernel</artifactId>
   <packaging>pom</packaging>
   <version>1.0.0-RC2-SNAPSHOT</version>
-  <name>Peergreen Assemblies</name>
+  <name>Peergreen Kernel Assemblies</name>
 
   <scm>
     <connection>scm:git:https://forge.peergreen.com/git/git/assemblies/kernel.git</connection>
