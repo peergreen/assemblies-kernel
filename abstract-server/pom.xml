@@ -130,7 +130,7 @@
     <dependency>
       <groupId>com.peergreen.shelbie</groupId>
       <artifactId>ipojo-commands</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
