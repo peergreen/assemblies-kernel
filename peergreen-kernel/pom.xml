@@ -33,6 +33,7 @@
         <extensions>true</extensions>
         <configuration>
           <!-- <usePack200>false</usePack200> -->
+          <addExpiration>false</addExpiration>
           <specification>org.osgi/org.osgi.core/5.0.0</specification>
           <framework>org.eclipse.tycho/org.eclipse.osgi/3.9.0.v20130529-1710</framework>
           <levels>
