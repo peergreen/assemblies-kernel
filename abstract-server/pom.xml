@@ -189,7 +189,7 @@
     <dependency>
       <groupId>com.peergreen.shelbie</groupId>
       <artifactId>shelbie-local-console</artifactId>
-      <version>1.0.2-SNAPSHOT</version>
+      <version>1.0.2</version>
       <scope>provided</scope>
     </dependency>
 
