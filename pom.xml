@@ -22,14 +22,14 @@
   <groupId>com.peergreen.assemblies</groupId>
   <artifactId>parent-kernel</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.0-RC2-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>Peergreen Kernel Assemblies</name>
 
   <scm>
     <connection>scm:git:https://forge.peergreen.com/git/git/assemblies/kernel.git</connection>
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/assemblies/kernel.git</developerConnection>
     <url>https://forge.peergreen.com/git/summary/?r=assemblies/kernel.git</url>
-    <tag>HEAD</tag>
+    <tag>KERNEL_1_0_0</tag>
   </scm>
 
   <properties>

@@ -15,7 +15,7 @@
   <parent>
     <groupId>com.peergreen.assemblies</groupId>
     <artifactId>abstract-server</artifactId>
-    <version>1.0.0-RC2-SNAPSHOT</version>
+    <version>1.0.0</version>
     <relativePath>../abstract-server/pom.xml</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
